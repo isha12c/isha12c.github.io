@@ -9,6 +9,14 @@
     font-size: 32px;
     color: blueviolet;
 }
+.header h2 {
+    font-size: 32px;
+    color: blueviolet;
+}
+.header h3 {
+    font-size: 32px;
+    color: blueviolet;
+}
 
 #expHeader{
     font-size: 22px;
@@ -18,4 +26,12 @@
 
 #LinkedIn:hover{
     color:plum;
+}
+#Picture1{
+    width: 210px;
+    height: 160px;
+}
+#Picture2{
+    width: 210px;
+    height: 160px;
 }
