@@ -1,5 +1,6 @@
 .header{
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(99, 81, 115);
     padding: 12px;
     margin: 22px;
@@ -7,24 +8,29 @@
 }
 .header h1 {
     font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
 }
 .header h2 {
     font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
 }
 .header h3 {
     font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
 }
 
 #expHeader{
     font-size: 22px;
-    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     padding: 2px;
 }
 
 #LinkedIn:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:plum;
 }
 #Picture1{
