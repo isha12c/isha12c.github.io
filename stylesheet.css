@@ -1,11 +1,13 @@
 .header{
     text-align: center;
+    color: rgb(99, 81, 115);
     padding: 12px;
     margin: 22px;
 
 }
 .header h1 {
     font-size: 32px;
+    color: blueviolet;
 }
 
 #expHeader{
