@@ -1,0 +1,73 @@
+[
+  {
+    "src": "/compressjpeg/mtfuji-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/looking-min.jpg",
+    "width": 900,
+    "height": 600
+  },
+  {
+    "src": "/compressjpeg/wave-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/motorcycle-min.jpg",
+    "width": 1000,
+    "height": 800
+  },
+  {
+    "src": "/compressjpeg/mountain_sky-min.jpg",
+    "width": 900,
+    "height": 600
+  },
+  {
+    "src": "/compressjpeg/narrows-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/matterhorn-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+
+  {
+    "src": "/compressjpeg/looking2-min.jpg",
+    "width": 900,
+    "height": 600
+  },
+  {
+    "src": "/compressjpeg/soleduck-min.jpg",
+    "width": 900,
+    "height": 600
+  },
+  {
+    "src": "/compressjpeg/thailand_boat-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/road-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/olympic_water-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/van-min.jpg",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "src": "/compressjpeg/sky-min.jpg",
+    "width": 1000,
+    "height": 800
+  }
+]
