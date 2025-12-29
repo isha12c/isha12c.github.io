@@ -81,7 +81,7 @@ export default function Home() {
         <div>
           <div className="flex flex-col items-center justify-center mb-4">
             <h2 className="inline-block bg-[#BBB1D275] text-2xl py-2 px-4 md:-ml-4 mb-4 font-semibold text-[#354259]">
-              about me
+              Header 1
             </h2>
 
             <p className="text-center max-w-xl mx-auto text-base md:text-lg leading-relaxed text-[#4b4f5e]">
@@ -106,7 +106,7 @@ export default function Home() {
         <div>
           <div className="flex flex-row items-center justify-center mb-4">
             <h2 className="inline-block bg-[#BBB1D275] text-2xl py-2 px-4 md:-ml-4 mb-4 font-semibold text-[#354259]">
-              projects
+              Header 2
             </h2>
           </div>
           {/* <div className="flex flex-row items-center justify-center mb-4">
@@ -125,7 +125,7 @@ export default function Home() {
       >
         <div className="flex flex-col items-center justify-center mb-4">
           <h2 className="bg-[#BBB1D275] text-2xl py-2 px-4 md:-ml-4 mb-4 font-semibold text-[#354259]">
-            photography
+            Header 3
           </h2>
 
           <PhotographyGrid />
@@ -143,7 +143,7 @@ export default function Home() {
           <div className="container grid md:grid-cols-3 gap-8 items-center mb-4">
             <div className="md:col-start-2 md:col-span-2">
               <h2 className="inline-block bg-[#BBB1D275] text-2xl py-2 px-4 md:-ml-4 mb-4 font-semibold text-[#354259]">
-                education
+                Header 4a
               </h2>
             </div>
           </div>

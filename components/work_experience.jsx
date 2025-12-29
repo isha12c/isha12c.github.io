@@ -10,7 +10,7 @@ export default function Experience() {
       <div className="container grid md:grid-cols-3 gap-8 items-center mb-4">
         <div className="md:col-start-2 md:col-span-2">
           <h2 className="inline-block bg-[#BBB1D275] text-2xl py-2 px-4 md:-ml-4 mb-4 font-semibold text-[#354259]">
-            work experience
+            Header 4b
           </h2>
         </div>
       </div>

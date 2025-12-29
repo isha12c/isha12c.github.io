@@ -58,7 +58,7 @@ const NavBar = () => {
               className="nav-item font-semibold hover:cursor-pointer"
               onClick={() => handleScroll("#home")}
             >
-              ISHA TESTTESTSETETSTESTSE
+              Home
             </h1>
           </div>
           {/* Desktop Nav */}
@@ -67,25 +67,25 @@ const NavBar = () => {
               className="nav-item hover:cursor-pointer"
               onClick={() => handleScroll("#about")}
             >
-              about
+              Header 1
             </h1>
             <h1
               className="nav-item hover:cursor-pointer"
               onClick={() => handleScroll("#projects")}
             >
-              ISHA TEST
+              Header 2
             </h1>
             <h1
               className="nav-item hover:cursor-pointer"
               onClick={() => handleScroll("#photography")}
             >
-              photography
+              Header 3
             </h1>
             <h1
               className="nav-item hover:cursor-pointer"
               onClick={() => handleScroll("#experience")}
             >
-              experience
+              Header 4
             </h1>
           </div>
           {/* Mobile nav */}
@@ -120,7 +120,7 @@ const NavBar = () => {
                       setTimeout(() => handleScroll("#about"), 100)
                     }
                   >
-                    about
+                    Header 1
                   </button>
                 </DrawerClose>
                 <DrawerClose asChild>
@@ -130,7 +130,7 @@ const NavBar = () => {
                       setTimeout(() => handleScroll("#projects"), 100)
                     }
                   >
-                    projects
+                    Header 2
                   </button>
                 </DrawerClose>
                 <DrawerClose asChild>
@@ -140,7 +140,7 @@ const NavBar = () => {
                       setTimeout(() => handleScroll("#photography"), 100)
                     }
                   >
-                    photography
+                    Header 3
                   </button>
                 </DrawerClose>
                 <DrawerClose asChild>
@@ -150,7 +150,7 @@ const NavBar = () => {
                       setTimeout(() => handleScroll("#experience"), 100)
                     }
                   >
-                    experience
+                    Header 4
                   </button>
                 </DrawerClose>
               </DrawerContent>
