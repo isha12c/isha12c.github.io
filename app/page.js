@@ -30,7 +30,7 @@ export default function Home() {
               name is
             </h1>
             <h1 className="text-6xl font-semibold text-white">
-              sarah dickerson<span className="text-[#354259]">,</span>
+              Isha Chaudhary<span className="text-[#354259]">,</span>
             </h1>
             <h1 className="text-6xl font-semibold text-[#354259]">
               and i&apos;m a

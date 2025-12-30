@@ -6,14 +6,14 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Sarah Dickerson",
+  title: "Isha Chaudhary",
   description: "My personal CV and portfolio website.",
   metadataBase:
     process.env.NODE_ENV === "production"
       ? new URL("https://sarahrdickerson.github.io")
       : new URL("http://localhost:3000"),
   openGraph: {
-    title: "Sarah Dickerson Portfolio",
+    title: "Isha Chaudhary Portfolio",
     description: "My personal CV and portfolio website.",
     images: [
       {

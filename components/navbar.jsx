@@ -110,7 +110,7 @@ const NavBar = () => {
                     className="nav-item font-semibold mb-8 bg-transparent border-none"
                     onClick={() => setTimeout(() => handleScroll("#home"), 100)}
                   >
-                    sarah dickerson
+                    Isha Chaudhary
                   </button>
                 </DrawerClose>
                 <DrawerClose asChild>
