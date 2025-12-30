@@ -10,10 +10,10 @@ export default function Typewriter() {
     const typed = new Typed(el.current, {
       strings: [
         // "get_summary()<br/>^1500 + full stack developer<br/>+ ai-driven solutions<br/>+ smart technology integration<br/>+ committed to continuous learning<br/><br/><i>skills</i>: javascript, python, react, node.js, java, sql, nosql",
-        "software engineer",
+        "NOT A SOFTWARE ENGINEER",
         "full stack developer",
         "photo taker",
-        "ski enthusiast",
+        "fortnite enthusiast",
         "sewing hobbyist",
         "software engineer",
       ],
