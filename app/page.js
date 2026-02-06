@@ -44,7 +44,7 @@ export default function Home() {
 
             <div className="flex flex-row mt-5 gap-5 ">
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/chaudharyisha/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="LinkedIn"
@@ -52,7 +52,7 @@ export default function Home() {
                 <LinkedInLogoIcon className="text-[#354259] w-8 h-8 hover:text-gray-500/75 transition duration-300 ease-in-out" />
               </a>
               <a
-                href="https://www.linkedin.com/in/chaudharyisha/"
+                href="https://www.linkedin.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="GitHub"
