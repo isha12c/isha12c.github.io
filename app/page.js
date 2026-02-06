@@ -81,17 +81,16 @@ export default function Home() {
         <div>
           <div className="flex flex-col items-center justify-center mb-4">
             <h2 className="inline-block bg-[#BBB1D275] text-2xl py-2 px-4 md:-ml-4 mb-4 font-semibold text-[#354259]">
-              Header 1
+              Summary
             </h2>
 
             <p className="text-center max-w-xl mx-auto text-base md:text-lg leading-relaxed text-[#4b4f5e]">
-              Software engineer. <span className="italic">UT Austin</span> grad
-              — ECE + Business minor.
+              Aspiring Product Manager <span className="italic">UT Austin</span> grad
+              — ECE.
               <br />
-              Dashboards. Side projects. Full-stack web apps.
+              Product. Data. Music Enthusiast.
               <br />
-              Currently at American Airlines ✈️, working on backend systems and
-              internal tools.
+              Currently at LPL Financial and Waterloo Records.
             </p>
           </div>
         </div>
